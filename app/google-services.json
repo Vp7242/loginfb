@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "40257309621",
+    "project_id": "login-fc-fba2b",
+    "storage_bucket": "login-fc-fba2b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40257309621:android:3dc5201024c7e2f32ee7fc",
+        "android_client_info": {
+          "package_name": "com.example.loginfc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUqq52waPiaXE80bYc8ixLhFQ5o325C94"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
